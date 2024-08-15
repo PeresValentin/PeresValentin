@@ -9,7 +9,7 @@
 -  📫 peresvalentin09@gmail.com
 
 ### Estadísticas de GitHub
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=tu_PeresValentin&show_icons=true&theme=radical)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=PeresValentin&show_icons=true&theme=radical)
 
 ### Lenguajes y Herramientas
 ![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=PeresValentin&layout=compact&theme=radical)
