@@ -4,6 +4,7 @@
 - 🎓 Estudiante de 4° año de Sistemas de la Información.
 ### Trabajos de la universidad
 - 🚀 **[Soft para una veterinaria](https://github.com/JuaniLezcano/vetsoft)**: Trabajo para la materia ingenieria y calidad de software hecho en grupo
+- 🚀 **[Soft para una veterinaria](https://github.com/BenjaminPeres596/Grupo1Agiles2024)**: Trabajo para la materia Metodologias Agiles, creamos una App que mostraba opciones de restaurantes para personas con celiaquia o patologias del estilo, utilizamos Scrum.
 
 ### Conéctate conmigo
 -  📫 peresvalentin09@gmail.com
