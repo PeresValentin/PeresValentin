@@ -1,19 +1,51 @@
-# Hola! Soy Valentin Peres 👋
+# Valentín Peres
 
-### Sobre mí
-- 🎓 Estudiante de 5° año de Sistemas de la Información.
-### Trabajos de la universidad
-- 🚀 **[Soft para una veterinaria](https://github.com/JuaniLezcano/vetsoft)**: Trabajo para la materia ingenieria y calidad de software hecho en grupo
-- 🚀 **[DondeComo](https://github.com/BenjaminPeres596/Grupo1Agiles2024)**: Trabajo para la materia Metodologias Agiles, creamos una App que mostraba opciones de restaurantes para personas con celiaquia o patologias del estilo, utilizamos Scrum.
+### Ingeniero en Sistemas | Backend & Full Stack Developer | Applied AI
 
-### Trabajos propios
-- 🚀 **[Asistente para la creacion de historias clinicas](https://github.com/PeresValentin/Medical-record)**: Trabajo solicitado por un estudiante avanzado de la carrera de medicina, se encuentra en proceso busca facilitar la creacion/visualizacion/edicion de historias clinicas para estudiantes avanzados y medicos novatos.
+Soy Ingeniero en Sistemas graduado de la **UTN FRLP**. Desarrollo aplicaciones web de punta a punta, con foco en backend, diseño de APIs, modelado de datos, autenticación, seguridad y arquitectura mantenible.
 
-### Conéctate conmigo
--  📫 peresvalentin09@gmail.com
+También construyo soluciones de inteligencia artificial aplicadas a productos reales, trabajando con **RAG, embeddings, agentes con tool calling, evaluación de respuestas y controles de consumo**.
 
-### Estadísticas de GitHub
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=PeresValentin&show_icons=true&theme=radical)
+## En qué estoy trabajando
 
-### Lenguajes y Herramientas
-![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=PeresValentin&layout=compact&theme=radical)
+- APIs y servicios backend con **Python, FastAPI, Node.js y Express**.
+- Aplicaciones full stack con **React, TypeScript y PostgreSQL**.
+- Sistemas de IA con recuperación de conocimiento, fuentes verificables y acciones controladas.
+- Diseño orientado a objetos, principios SOLID, testing y decisiones de arquitectura documentadas.
+
+## Proyectos destacados
+
+### Desk — Helpdesk inteligente y auditable
+
+Helpdesk full stack con tickets, base documental vectorial y un agente de soporte que responde con fuentes, se abstiene cuando falta evidencia y requiere confirmación humana antes de ejecutar acciones. Construido con **FastAPI, React, PostgreSQL, pgvector y Docker**.
+
+### [Medical Record](https://github.com/PeresValentin/Medical-Record)
+
+Asistente educativo para crear y revisar historias clínicas mediante un flujo guiado. Incluye pacientes, consultas, examen físico, diagnósticos CIE-10, imágenes clínicas, escalas de referencia y paneles de seguimiento.
+
+**Stack:** Python, Django, SQLite, Bootstrap y Select2.
+
+### [ChangaYa](https://github.com/PeresValentin/ChangaYa)
+
+Plataforma móvil desarrollada como Proyecto Final de Ingeniería para conectar contratantes con trabajadores independientes. Incluye publicación de changas, postulaciones, perfiles, reputación, reseñas y chat en tiempo real.
+
+**Stack:** React Native, Expo, TypeScript, Node.js, Express, Socket.IO y Supabase.
+
+### [Phone Billing Solution](https://github.com/PeresValentin/phone-billing-solution)
+
+Sistema de facturación telefónica orientado a objetos que calcula llamadas locales, nacionales e internacionales aplicando estrategias tarifarias intercambiables.
+
+**Conceptos:** POO, Strategy Pattern, separación de responsabilidades y modelado de dominio.
+
+## Tecnologías
+
+**Backend:** Python · FastAPI · Django · Node.js · Express · REST APIs  
+**Frontend:** React · React Native · TypeScript · JavaScript · HTML · CSS  
+**Datos:** PostgreSQL · pgvector · Supabase · SQLite · SQLAlchemy · Alembic  
+**IA:** RAG · Embeddings · LangChain · Tool Calling · Evaluaciones de LLM  
+**Herramientas:** Git · GitHub · Docker · Pytest · Vitest · Postman
+
+## Contacto
+
+- [LinkedIn](https://www.linkedin.com/in/valentin-peres-65a5a3323/)
+- Email: peresvalentin09@gmail.com
