@@ -15,7 +15,7 @@ También construyo soluciones de inteligencia artificial aplicadas a productos r
 
 ## Proyectos destacados
 
-### Desk — Helpdesk inteligente y auditable
+### [Desk — Helpdesk inteligente y auditable](https://github.com/PeresValentin/Desk) 
 
 Helpdesk full stack con tickets, base documental vectorial y un agente de soporte que responde con fuentes, se abstiene cuando falta evidencia y requiere confirmación humana antes de ejecutar acciones. Construido con **FastAPI, React, PostgreSQL, pgvector y Docker**.
 
